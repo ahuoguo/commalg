@@ -1,0 +1,71 @@
+* Commutative Algebra
+#+AUTHOR: Kyle Dituro
+
+** Syllabus
+*** TODO Ring Review
+*** TODO Module
+**** TODO What is a Module
+**** TODO Morphisms and Quotient Modules
+**** TODO Submodules
+**** TODO Direct Sums
+**** TODO Exact Sequences
+**** TODO Tensor Products
+**** TODO Algebras
+*** TODO Rings and Modules of Fractions
+**** TODO "Local Properties" 
+**** TODO Localization
+*** TODO Primary Decomposition
+**** TODO Integral Dependence and Valuation
+**** TODO Noetherian Rings
+**** TODO Primary Decomp in the context of Noetherian Rings
+*** TODO If there's time...
+**** TODO Discrete Valuation Rings
+**** TODO Dedekind Domains
+
+** Course Structure
+
+Two days a week, Tuesday / Thursday should be the idea, and it'll probably be at Math 293.
+
+*** Day 1, Dyl "Lectures"
+
+*** Day 2, Recitation-Style Group Work and Presented Solutions
+
+*** One or Two Projects
+
+- Midterm Partner Project, 20/25 minute presentation.
+
+  
+** Timetable
+
+| Time         | Topic                             |
+|--------------+-----------------------------------|
+| 2 Weeks      | Ring Theory Review                |
+| 1 Week       | What is a module                  |
+|              | Morphisms, Quotient modules       |
+|              | Submodules                        |
+| <1 week      | Direct Sums                       |
+| 2 or 3 Weeks | Exact Sequences                   |
+|              | Tenser Products                   |
+| 1.5 Weeks    | Rings / Modules of Fractions      |
+|              | Local Properties                  |
+| 1 Week       | Projects                          |
+| 1.5 Weeks    | Primary Decomposition             |
+| 1 Week       | Integral Dependence and Valuation |
+| 1 Week       | Noetherian Rings                  |
+|              | Primary Decomposition             |
+
+
+
+** Inspiration
+
+- Representation Theory
+- Mathematical Physics
+- Algebraic Geometry
+- Projective Geometry
+- Arithmetic Geometry
+- Finite Geometry
+- Category Theory
+  
+** Notes
+
+We'll try for shared overleaf doc with course notes and one doc for student contributed solutions.
